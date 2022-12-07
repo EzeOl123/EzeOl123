@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Ezequiel Olivera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Ezequiel Olivera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/EzeOl123/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ezequiel+Olivera...;++;Web+Development+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..."></a>
@@ -15,9 +15,22 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+- Actualmente estoy aprendiendo desarrollo web
+- Tengo 20 años
+ Conocimientos (En la parte teorica de SoyHenry):
+- JS avanzado
+- NodeJS
+- Redux
+- ReactJS
+- Express
+- PostgreSQL
 
-- Currently learning Web Development
-- I’m currently open for an Intern or a new job opportunity.
+ Actualmente estoy aprendiendo en el proyecto final de SoyHenry:
+- Typescript
+- MongoDB
+- Tailwind
+- JWT
+
 
 <br><br>
 
