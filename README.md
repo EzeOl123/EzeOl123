@@ -17,7 +17,10 @@
 <br>
 - Actualmente estoy aprendiendo desarrollo web
 - Tengo 20 años
+
+
  Conocimientos (En la parte teorica de SoyHenry):
+ 
 - JS avanzado
 - NodeJS
 - Redux
