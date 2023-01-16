@@ -54,6 +54,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%234285F4.svg?style=for-the-badge&logo=react&logoColor=white)
 <br>
 
 - **Back-End Development**:
