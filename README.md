@@ -62,6 +62,7 @@
    ![NodeJS](https://img.shields.io/badge/nodejs-%23054020.svg?style=for-the-badge&logo=javascript&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+   ![PostgreSQL](https://img.shields.io/badge/Postgresql-%231572B6.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
     
 <br>
 
