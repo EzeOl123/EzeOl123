@@ -28,7 +28,9 @@
 - ReactJS
 - Express
 - PostgreSQL
-En el proyecto final de SoyHenry aprendi:
+
+ En el proyecto final de SoyHenry aprendi:
+ 
 - Typescript
 - MongoDB
 - Tailwind
